@@ -45,6 +45,7 @@
 | [Kittl](https://www.kittl.com/?ref=awe50meAI) |     Speed up your workflows with Kittl's AI-powered design tools and gain instant access to a ton of stunning illustrations, fonts, photos, icons, and textures.  |
 | [clipdrop](https://clipdrop.co/?ref=awe50meAI) |     Create stunning visuals in seconds  |
 | [Replicate](https://replicate.com/?ref=awe50meAI) | Machine learning doesn’t need to be so hard. |
+| [Magai](https://magai.co) | Magai gives you access to the world's most advanced AI tools—not just one! You also get powerful features to add even more fuel to your AI-powered arsenal. |
 
 ## AI Search Engine
 | Awesome | Description |
